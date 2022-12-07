@@ -20,6 +20,6 @@ int main()
 	cin >> b;
 	cout << "\n x належить інтервалу [A ; B] ?   " << boolalpha << (x >= a == x <= b) << endl;
 	system("pause");
-
+        cout << "Hello"<< endl;
 	return 0;
 }
